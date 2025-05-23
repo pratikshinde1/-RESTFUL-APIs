@@ -31,29 +31,7 @@ A simple RESTful API built with Node.js and Express.js that allows users to mana
 - Node.js (v14+ recommended)
 - npm (Node Package Manager)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd RESTFul Api
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the server:
-   ```bash
-   npm start
-   ```
-
-   For development with automatic restart:
-   ```bash
-   npm run dev
-   ```
-
+ 
 The server will start on port 3000 by default. You can change this by setting the `PORT` environment variable.
 
 ## API Documentation
